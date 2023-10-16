@@ -1,0 +1,37 @@
+*{
+    margin: 0  ;
+    padding: 0;
+    box-sizing: border-box;
+}
+    body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+}
+a{
+
+    color: black;
+}
+header{
+    display: flex;
+    height: 200px;
+    background-color: rgb(234, 190, 171);
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+.logo img{
+    height: 200px;
+    width: 250px; ;
+    margin-right: 200px;
+}
+.imagen-1{
+    display: left;
+    align-items: left;
+    width: 250px;
+    margin-right: 20px;
+    ;
+}
+nav a{
+    font-weight: 600;
+    padding-right: 50px;
+}
